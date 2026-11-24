@@ -2,7 +2,7 @@
 
 ## Sobre mí
 - Soy Desarrollador en Formación, Autodidacta.
-- Actualmente aprendiendo: C#, EntityFrameWork Core, AspNetCore, PostgreSQL, SQL Server, Python, Django.
+- Actualmente aprendiendo: C#, EntityFrameWork Core, AspNetCore, PostgreSQL, SQL Server.
 - Objetivo 2026: Tener mis primeros repositorios con mis proyectos desde cero y con orden impecable en los Commits.
 - Contacto: amador.roberto1981@gmail.com
 
